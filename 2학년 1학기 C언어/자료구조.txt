@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX_TERMS 101
+
+struct A {
+	float coef;
+	int expon;
+};
+
+struct A S1[MAX_TERMS];
+struct A S2[MAX_TERMS];
+
+void Sca(void) {
+	int i;
+	int k;
+
+	printf("A항의 차수입력");
+	scanf_s("%d", &i);
+	
+	for(k = 0 ; k <= i ; k++){
+
+		S1[k].expon = k;
+		printf("A항의 %d차 계수입력", k);
+		scanf_s("%f", &S1[k].coef);
+
+		printf("%f,%d\n", S1[k].coef, S1[k].expon);
+
+	}
+}
+
+void main (int a, int b)
+{
+	void Sca(void);
+
+
+}

@@ -1,0 +1,5 @@
+﻿  동적섹터.cpp
+c:\users\xnote\documents\visual studio 2015\projects\동적섹터\동적섹터\동적섹터.cpp(14): warning C4091: 'typedef ': ignored on left of 'MEMORY' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\동적섹터\동적섹터\동적섹터.cpp(90): warning C4553: '==': operator has no effect; did you intend '='?
+  동적섹터.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\동적섹터\Debug\동적섹터.exe
+  동적섹터.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\동적섹터\Debug\동적섹터.pdb (Full PDB)

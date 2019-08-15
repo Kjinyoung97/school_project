@@ -1,0 +1,10 @@
+﻿  leekyutak_Prog_ANAND.cpp
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(73): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(82): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(85): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(68): warning C4101: 'w': unreferenced local variable
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(108): warning C4101: 'Q': unreferenced local variable
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(108): warning C4101: 'count': unreferenced local variable
+c:\users\xnote\documents\visual studio 2015\projects\leekyutak_prog_anand\leekyutak_prog_anand\leekyutak_prog_anand.cpp(109): warning C4101: 'spar': unreferenced local variable
+  leekyutak_Prog_ANAND.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\leekyutak_Prog_ANAND\Debug\leekyutak_Prog_ANAND.exe
+  leekyutak_Prog_ANAND.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\leekyutak_Prog_ANAND\Debug\leekyutak_Prog_ANAND.pdb (Full PDB)

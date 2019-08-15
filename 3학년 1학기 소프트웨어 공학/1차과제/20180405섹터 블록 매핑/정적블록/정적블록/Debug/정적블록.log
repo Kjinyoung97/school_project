@@ -1,0 +1,8 @@
+﻿  정적블록.cpp
+c:\users\xnote\documents\visual studio 2015\projects\정적블록\정적블록\정적블록.cpp(17): warning C4091: 'typedef ': ignored on left of 'MEMORY' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\정적블록\정적블록\정적블록.cpp(24): warning C4091: 'typedef ': ignored on left of 'LBN' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\정적블록\정적블록\정적블록.cpp(29): warning C4091: 'typedef ': ignored on left of 'PBN' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\정적블록\정적블록\정적블록.cpp(100): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\정적블록\정적블록\정적블록.cpp(138): warning C4101: 'count': unreferenced local variable
+  정적블록.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\정적블록\Debug\정적블록.exe
+  정적블록.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\정적블록\Debug\정적블록.pdb (Full PDB)

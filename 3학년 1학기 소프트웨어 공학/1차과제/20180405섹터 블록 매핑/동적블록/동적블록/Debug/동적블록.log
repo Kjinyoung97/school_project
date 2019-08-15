@@ -1,0 +1,9 @@
+﻿  동적블록.cpp
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(18): warning C4091: 'typedef ': ignored on left of 'MEMORY' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(25): warning C4091: 'typedef ': ignored on left of 'LBN' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(30): warning C4091: 'typedef ': ignored on left of 'PBN' when no variable is declared
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(100): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(101): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\xnote\documents\visual studio 2015\projects\동적블록\동적블록\동적블록.cpp(137): warning C4101: 'count': unreferenced local variable
+  동적블록.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\동적블록\Debug\동적블록.exe
+  동적블록.vcxproj -> C:\Users\Xnote\Documents\Visual Studio 2015\Projects\동적블록\Debug\동적블록.pdb (Full PDB)
